@@ -16,8 +16,8 @@ Antes de iniciar el proyecto, asegúrate de tener instalado:
 
 ### 1. Clonar el repositorio
 
-    git clone 
-    cd 
+    git clone https://github.com/tgbrahian21/pruebaSingularityHealth.git
+    cd pruebaSingularityHealth
 
 ### 2. Instalar las dependencias
 
